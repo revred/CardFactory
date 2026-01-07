@@ -13,12 +13,12 @@
 }
 
 .btn-gradient {
-    background: linear-gradient(180deg, #3D8FB5 0%, #1C4E6E 100%);
+    background: linear-gradient(180deg, #6495ED 0%, #0F172A 100%);
     color: white;
 }
 
 .accordion-button {
-    background-color: #D4F3FF;
+    background-color: #EAF2FF;
 }
 
 .card.cursor-pointer {

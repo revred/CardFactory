@@ -1,5 +1,5 @@
 ﻿.filter-controls {
-    background-color: #D4F3FF;
+    background-color: #EAF2FF;
     padding: 1rem;
     border-radius: 0.75rem;
 }
@@ -9,13 +9,13 @@
 }
 
 .btn-gradient {
-    background: linear-gradient(180deg, #3D8FB5 0%, #1C4E6E 100%);
+    background: linear-gradient(180deg, #6495ED 0%, #0F172A 100%);
     border: none;
     color: white;
 }
 
 .product-row {
-    background-color: #D4F3FF;
+    background-color: #EAF2FF;
     position: relative;
 }
     .product-row .fid-badge {
@@ -71,7 +71,7 @@
     padding: 0 16px 0 48px;
     border-radius: 24px;
     border: none;
-    background-color: #D4F3FF;
+    background-color: #EAF2FF;
     font-size: 1rem;
     color: #333;
 }
@@ -96,7 +96,7 @@
 }
 
 .filter-panel {
-    background-color: #D4F3FF;
+    background-color: #EAF2FF;
     min-width: 240px;
     max-width: 280px;
 }

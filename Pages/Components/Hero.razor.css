@@ -45,7 +45,7 @@
     height: 100%;
     opacity: 0.85;
     z-index: 2;
-    background: linear-gradient(180deg, #1d2951 0%, #6495ed 100%);
+    background: linear-gradient(180deg, #6495ed 0%, #1d2951 100%);
     color: white;
 }
 

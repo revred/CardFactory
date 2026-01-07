@@ -1,7 +1,7 @@
 ﻿.login-container {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    background-color: #D4F3FF;
+    background-color: #EAF2FF;
     border-radius: 16px;
     overflow: hidden;
     max-width: 800px;
@@ -58,7 +58,7 @@
     }
 
 .primary-button {
-    background: linear-gradient(to right, #3D8FB5, #1C4E6E);
+    background: linear-gradient(to right, #6495ED, #1C4E6E);
     color: white;
     padding: 14px;
     border: none;
@@ -75,7 +75,7 @@
 }
 
     .separator span {
-        background: #D4F3FF;
+        background: #EAF2FF;
         padding: 0 10px;
     }
 
@@ -118,7 +118,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background: #D4F3FF;
+    background: #EAF2FF;
     margin: 20px;
     border-radius: 20px;
     overflow: hidden;
