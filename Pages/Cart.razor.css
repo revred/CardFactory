@@ -3,7 +3,7 @@
 }
 
 .btn-gradient {
-    background: linear-gradient(180deg, #6495ED 0%, #0F172A 100%);
+    background: linear-gradient(135deg, #6495ed 0%, #0F172A 100%);
     border: none;
     color: white;
 }
